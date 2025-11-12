@@ -54,7 +54,6 @@ Players take on the role of a university fresher navigating through various leve
 ## Screenshots
 
 ![Gameplay Screenshot](images/gameplay.jpeg)
----
 
 ## Contributing
 
